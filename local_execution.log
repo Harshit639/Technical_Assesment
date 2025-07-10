@@ -1,0 +1,48 @@
+(venv) (base) harshitsingh@Harshits-MacBook-Air-2 BS % python3 technical_assignment.py
+Screenshot saved: screenshots/homepage.png
+Screenshot saved: screenshots/opinion_page.png
+
+--- Article 1 ---
+Title (ES): Oxígeno para Pedro Sánchez
+URL: https://elpais.com/opinion/2025-07-09/oxigeno-para-pedro-sanchez.html
+[+] Screenshot saved: screenshots/03_article_1_opened.png
+Content (ES): El presidente del Gobierno, Pedro Sánchez, acudió este miércoles al Congreso de los Diputados con un objetivo:demostrar ante la mayoría que lo invistió en 2023 que ha reaccionadoal encarcelamiento de quien hasta hace semanas era el secretario de Organización de su partido, Santos Cerdán, por armar u ...
+Image saved: cover_images/article_1.jpg
+Title (EN): Oxygen for Pedro Sánchez
+
+--- Article 2 ---
+Title (ES): La convivencia frente al turismo
+URL: https://elpais.com/opinion/2025-07-10/la-convivencia-frente-al-turismo.html
+[+] Screenshot saved: screenshots/03_article_2_opened.png
+Content (ES): Un juzgado de Madrid haordenado el cierre de 10 pisos turísticos en un mismo edificio en el centro de la capital.Lo novedoso es que lo ha hecho para proteger la intimidad y la vida familiar de una pareja con dos hijos, vecinos del inmueble. La sentencia ni siquiera entra a valorar si los negocios er ...
+Image saved: cover_images/article_2.jpg
+Title (EN): Coexistence against tourism
+
+--- Article 3 ---
+Title (ES): No hay alternativa al multilateralismo
+URL: https://elpais.com/opinion/2025-07-10/no-hay-alternativa-al-multilateralismo.html
+[+] Screenshot saved: screenshots/03_article_3_opened.png
+Content (ES): El año 2025 debería ser un momento de celebración, dedicado a los ochenta años de existencia de la Organización de las Naciones Unidas (ONU). Pero corre el riesgo de pasar a la historia como el año en que colapsó el orden internacional construido a partir de 1945....
+Las grietas ya eran visibles. De ...
+Image saved: cover_images/article_3.jpg
+Title (EN): There is no alternative to multilateralism
+
+--- Article 4 ---
+Title (ES): La vieja y la nueva corrupción
+URL: https://elpais.com/opinion/2025-07-10/la-vieja-y-la-nueva-corrupcion.html
+[+] Screenshot saved: screenshots/03_article_4_opened.png
+Content (ES): Es habitualdefinir la corrupción en España como sistémicapero pocas veces se explica como un proceso histórico. Inevitable, común o la de siempre, la llamemos como la llamemos, entendemos el fenómeno como parte de nuestro presente, cuando lo cierto es que recorre toda la etapa contemporánea. ...
+Aun ...
+Image saved: cover_images/article_4.jpg
+Title (EN): The old and the new corruption
+
+--- Article 5 ---
+Title (ES): Tiempos muertos
+URL: https://elpais.com/opinion/2025-07-07/tiempos-muertos.html
+Screenshot saved: screenshots/article_5_opened.png
+Content (ES): Todos los días miles de habitantes del Estado de México recorren largos trayectos en transporte público, alrededor de cuatro horas diarias, para llegar a sus lugares de estudio, trabajo o para obtener algún servicio en la Ciudad...
+Image saved: cover_images/article_5.jpg
+Title (EN): Dead times
+
+--- Repeated Words in Translated Titles (more than 2 times) ---
+No Repeated Words in Translated Titles (more than 2 times)
