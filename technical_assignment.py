@@ -89,7 +89,7 @@ def translate_text(text, from_lang="es", to_lang="en"):
     headers = {
         "Content-Type": "application/json",
         "x-rapidapi-host": "rapid-translate-multi-traduction.p.rapidapi.com",
-        "x-rapidapi-key": "119e4fb11cmshe88fec1ccd77330p11ca6ajsn1bde26409440"
+        "x-rapidapi-key": "*"
     }
     payload = {
         "from": from_lang,
