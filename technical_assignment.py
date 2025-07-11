@@ -37,7 +37,7 @@ def take_screenshot(name):
 try:
     driver.get(WEBSITE_LINK)
     wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
-    # Handle cookie popup if it appears
+    # Handle cookie/TC notification popup if it appears
     try:
         accept_button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.ID, COOKIE_ACCEPT_BUTTON))
@@ -127,8 +127,8 @@ for idx, (title, url) in enumerate(zip(titles, article_links), 1):
             paragraphs = soup.select("div.a_c.clearfix[data-dtm-region='articulo_cuerpo'] p")
 
         content = "\n".join(p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True))
-        print("Content (ES):", content[:300], "...")
-
+        print("Content (ES):", content[:300], "...") # Trimming the content of article for better readability of log :)
+    
         img_tag = soup.select_one("figure img")
         if img_tag and img_tag.get("src"):
             img_url = img_tag.get("src")
